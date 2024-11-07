@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(160, 93, 160);
+}
+
+h1, h2, h3{
+    color: purple;
+    padding: 10px;
+    text-align: center;
+    font-family: "Rubik Mono One", monospace;
+}
+
+.logo{
+        text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    font-family: "Noto Sans Mono", monospace;
+    margin: 10px;
+    display: inline-block;
+}
+
+a{
+    color: violet;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 10px;
+    border: violet 2px solid;
+    padding: 10px;
+    background-color: purple;
+}
+
+p{
+    font-family: "Noto Sans Mono", monospace;
+    padding: 20px;
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+
+.tiposAutos{
+    padding: 20px;
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+
+footer{
+    background-color: purple;
+    color: violet;
+}
+
+.imgAutos{
+    width: 400px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+main{
+    text-align: center;
+}
+
+.precioAuto{
+    color: violet;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 10px;
+    border: violet 2px solid;
+    padding: 10px;
+    background-color: purple;
+    border-radius: 10px;
+}
+
+.imgLogo{
+    width: 200px;
+    border: violet 3px solid;
+    border-radius: 10px;
+
+}
+
+  
+  
